@@ -12,6 +12,7 @@ Outside of work, you'll find me hiking, biking or traveling whenever I get the c
 ### Connect with Me
 - 🌐 Website: [kendaniells.com](https://kendaniells.com)
 - 🐦 X (Twitter): [@kendaniells](https://x.com/kendaniells)
+- 🔗 LinkedIn: [linkedin.com/in/kdaniells](https://www.linkedin.com/in/kdaniells)
 - 📸 Instagram: [@ken.daniells](https://www.instagram.com/ken.daniells/)
 
 Feel free to reach out. I'm happy to connect further.
