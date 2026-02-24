@@ -1,18 +1,20 @@
-# Hi there 👋
+### Hi there 👋
 
-I'm a 4x founder with 25+ years building tech-enabled service companies. I'm an avid learner and enjoy exploring how technology can make everyday work and life a little simpler and more interesting.
+I'm a 4x founder and advisor with 25+ years building tech-enabled service companies. I'm an avid learner and enjoy exploring how technology can make everyday work and life easier and more interesting.
 
 Outside of work, you'll find me hiking, biking or traveling whenever I get the chance. 
 
-## What You'll Find Here
-This GitHub profile is my hub for personal projects, AI experiments, and knowledge-sharing repositories.
+### What You'll Find Here
+- personal projects
+- AI experiments
+- knowledge-sharing repositories
 
-## Connect with Me
+### Connect with Me
 - 🌐 Website: [kendaniells.com](https://kendaniells.com)
 - 🐦 X (Twitter): [@kendaniells](https://x.com/kendaniells)
 - 📸 Instagram: [@ken.daniells](https://www.instagram.com/ken.daniells/)
 
-Feel free to reach out. I'm happy to connect and chat further.
+Feel free to reach out. I'm happy to connect further.
 
 <!--
 **kendaniells/kendaniells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
